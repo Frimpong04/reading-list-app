@@ -1,0 +1,29 @@
+.list {
+    /* border: 1px solid blue; */
+    list-style-type: none;
+    width:480px;
+    margin: 10px auto;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow:rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+
+.list:hover {
+    cursor: pointer;
+    text-decoration: line-through;
+}
+
+.list h2 {
+    font-size: 28px;
+    text-align: left;
+
+}
+
+.list p {
+    font-size: 13px;
+    text-align: left;
+}

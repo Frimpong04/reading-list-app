@@ -1,0 +1,8 @@
+.booklist  {
+    /* border: 1px solid green; */
+    width: 580px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #eee;
+    border-radius: 10px;
+}
